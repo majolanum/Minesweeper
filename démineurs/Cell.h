@@ -2,10 +2,10 @@
 
 struct Cell
 {
-	bool ContaineMine;
-	bool ContaineFlague;
-	bool IsReavel;
-	int adjMineCount;
+	bool ContaineMine = false;
+	bool ContaineFlague = false;
+	bool IsReavel = false;
+	int adjMineCount = 0;
 };
 
 void initialize(Cell* cell);

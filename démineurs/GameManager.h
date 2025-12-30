@@ -13,7 +13,7 @@ private:
 
 public:
 	static GameManager* get();
-	int askint(const char* msg,	int min, int max);
+	int askint(const char* msg, int min, int max);
 
 	void initializeGame();
 

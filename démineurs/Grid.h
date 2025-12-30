@@ -4,13 +4,13 @@
 class Grid
 {
 	Cell** cell;
-	int rowCount;
-	int	colCount;
-	int MineNumber;
+	int rowCount = 0;
+	int	colCount = 0;
+	int MineNumber = 0;
 	bool firstgrid = true;
 
 	const char* RESET = "\033[0m";
-	
+
 	const char* RED = "\033[31m";
 	const char* GREEN = "\033[32m";
 	const char* BLUE = "\033[34";
