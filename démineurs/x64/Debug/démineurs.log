@@ -1,0 +1,12 @@
+﻿  Cell.cpp
+  démineurs.cpp
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\démineurs.cpp(6,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  GameManager.cpp
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\GameManager.cpp(44,22): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\GameManager.cpp(52,24): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\GameManager.cpp(60,24): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\GameManager.cpp(70,26): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Grid.cpp
+C:\Users\arthu\Documents\GitHub\Minesweeper\démineurs\Grid.cpp(16,27): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+  démineurs.vcxproj -> C:\Users\arthu\Documents\GitHub\Minesweeper\x64\Debug\démineurs.exe
