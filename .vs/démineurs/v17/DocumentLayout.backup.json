@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\d\u00E9mineurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\d\u00E9mineurs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|solutionrelative:d\u00E9mineurs\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECD9D72D-EE9D-4241-94EA-204409E26C22}|d\u00E9mineurs\\d\u00E9mineurs.vcxproj|C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,16 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.cpp",
+              "RelativeDocumentMoniker": "d\u00E9mineurs\\Grid.cpp",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.cpp",
+              "RelativeToolTip": "d\u00E9mineurs\\Grid.cpp",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAQwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T13:24:47.281Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "d\u00E9mineurs.cpp",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\d\u00E9mineurs.cpp",
+              "RelativeDocumentMoniker": "d\u00E9mineurs\\d\u00E9mineurs.cpp",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\d\u00E9mineurs.cpp",
+              "RelativeToolTip": "d\u00E9mineurs\\d\u00E9mineurs.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T13:24:59.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\GameManager.cpp",
+              "RelativeDocumentMoniker": "d\u00E9mineurs\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\GameManager.cpp",
+              "RelativeToolTip": "d\u00E9mineurs\\GameManager.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T13:24:58.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Grid.h",
               "DocumentMoniker": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.h",
               "RelativeDocumentMoniker": "d\u00E9mineurs\\Grid.h",
               "ToolTip": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Grid.h",
               "RelativeToolTip": "d\u00E9mineurs\\Grid.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAwwAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-30T06:59:09.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:59:09.242Z"
             },
             {
               "$type": "Document",
@@ -55,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cell.h",
               "DocumentMoniker": "C:\\Users\\arthu\\Documents\\GitHub\\Minesweeper\\d\u00E9mineurs\\Cell.h",
               "RelativeDocumentMoniker": "d\u00E9mineurs\\Cell.h",

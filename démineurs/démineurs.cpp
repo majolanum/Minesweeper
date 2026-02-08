@@ -35,7 +35,7 @@ int main()
 		run = GameManager::get()->askint("Voulez vous rejouer ? (0/1)", 0, 1);
 		if (run == 1)
 		{
-			gamestate = 1;
+			gamestate = -1;
 			GameManager::get()->GetGrid()->freeelement();
 		}
 	}
