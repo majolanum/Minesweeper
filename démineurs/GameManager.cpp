@@ -73,6 +73,8 @@ void GameManager::askdificulty()
 	}
 }
 
+
+
 void GameManager::gameloop(int* gamestate)
 {
 	grid->printTable();

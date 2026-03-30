@@ -52,6 +52,9 @@ void Grid::placemine(int rowExeption, int colExeption)
 
 void Grid::printcell(int row, int col)
 {
+	if (cell[row][col].Selected == true)
+		std::cout << 
+
 	if (cell[row][col].ContaineFlague == true)
 	{
 		std::cout << RED << "F" << RESET << " | ";

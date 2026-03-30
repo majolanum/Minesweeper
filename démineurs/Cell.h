@@ -5,6 +5,7 @@ struct Cell
 	bool ContaineMine = false;
 	bool ContaineFlague = false;
 	bool IsReavel = false;
+	bool Selected = false;
 	int adjMineCount = 0;
 };
 
